@@ -1,0 +1,1 @@
+Select * from Git_POD_LOCAL
