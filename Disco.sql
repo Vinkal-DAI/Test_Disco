@@ -21,3 +21,4 @@ where MAX_TEMP < 5
 and AIR_FROST_DAYS <25;
 --add 1 - commit 1
 -- add 2 - commit 1
+-- add 3 - commit 2
