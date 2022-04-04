@@ -4,7 +4,12 @@ Select * from HEATHROW_LONDON_AIRPORT;
     -- Adding more comment into Main (commit 1 - main)
 --AIRPORT LHR
 Select * from HEATHROW_LONDON_AIRPORT
-where MAX_TEMP < 10;
-and MIN_TEMP >5
-and Rain < 50
+where MAX_TEMP < 10
 and 1 = 1 --Commit 1 - main;
+and MIN_TEMP =0
+-- rain mor ethe 16 then use runaway 27L
+and rain > 16 
+--Rain about 50 is no concern (commit 1 - branch vs)
+-- need to include 49 (commit 2)
+and Rain < 49;
+
