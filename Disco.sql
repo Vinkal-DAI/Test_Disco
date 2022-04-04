@@ -15,4 +15,5 @@ and Rain < 49;
 -- Cold days
 Select * 
 FORM HEATHROW_LONDON_AIRPORT
-where MAX_TEMP < 5;
+where MAX_TEMP < 5
+and AIR_FROST_DAYS <25;
