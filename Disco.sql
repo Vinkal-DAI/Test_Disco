@@ -1,2 +1,4 @@
 Select * from HEATHROW_LONDON_AIRPORT
 --adding COMMENT
+Select * from HEATHROW_LONDON_AIRPORT
+where MIN_TEMP >5;
