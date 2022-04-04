@@ -12,4 +12,7 @@ and rain > 16
 --Rain about 50 is no concern (commit 1 - branch vs)
 -- need to include 49 (commit 2)
 and Rain < 49;
-
+-- Cold days
+Select * 
+FORM HEATHROW_LONDON_AIRPORT
+where MAX_TEMP < 5;
