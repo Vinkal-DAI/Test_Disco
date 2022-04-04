@@ -24,5 +24,9 @@ and AIR_FROST_DAYS <25;
 --add 1 - commit 1
 -- add 2 - commit 1
 -- add 3 - commit 2
+<<<<<<< HEAD
 -- add main commit 1
 -- add main commit 2
+=======
+-- MAIN GITHUB CHANGE
+>>>>>>> e6df8afe437e2850761af570fa6ddef7a163b5e8
