@@ -13,7 +13,9 @@ and rain > 16
 -- need to include 49 (commit 2)
 and Rain < 49;
 -- Cold days
+    -- Winter restritions
 Select * 
 FORM HEATHROW_LONDON_AIRPORT
 where MAX_TEMP < 5
+-- days when it freezes over night
 and AIR_FROST_DAYS <25;
