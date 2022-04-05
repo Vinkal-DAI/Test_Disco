@@ -14,14 +14,6 @@ and rain > 16
 and Rain < 49;
 -- THis the end of section 1 - Main commit after branching off of vs branch 2
 ----------------------------------
-<<<<<<< HEAD
 -- This is a comment for new section (commit 1 on main)
 -- this is a sub title (main)
-=======
 --this is a new comment 1 (commit 1)
-<<<<<<< HEAD
->>>>>>> a6fd0a4 (branch vs2 -commit 1)
-=======
---this is a new comment 2 (commit 2)
---this is a new comment 3 (commit 3)
->>>>>>> bd99ead (branch vs2 -commit 2/3)
