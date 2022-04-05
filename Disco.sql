@@ -19,4 +19,9 @@ and Rain < 49;
 -- this is a sub title (main)
 =======
 --this is a new comment 1 (commit 1)
+<<<<<<< HEAD
 >>>>>>> a6fd0a4 (branch vs2 -commit 1)
+=======
+--this is a new comment 2 (commit 2)
+--this is a new comment 3 (commit 3)
+>>>>>>> bd99ead (branch vs2 -commit 2/3)
