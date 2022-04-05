@@ -15,3 +15,4 @@ and Rain < 49;
 -- THis the end of section 1 - Main commit after branching off of vs branch 2
 ----------------------------------
 -- this is a paragraph 1 (sql b - commit 1)
+-- this is a paragraph 2 (sql b - commit 2)
