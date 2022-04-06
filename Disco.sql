@@ -11,8 +11,9 @@ and MIN_TEMP =0
 and rain > 16 
 --Rain about 50 is no concern (commit 1 - branch vs)
 -- need to include 49 (commit 2)
-and Rain < 49;
+and Rain < 30;
 -- THis the end of section 1 - Main commit after branching off of vs branch 2
 ----------------------------------
 -- this is a paragraph 1 (sql b - commit 1)
 -- this is a paragraph 2 (sql b - commit 2)
+-- Demo - changing rain< 30  - Commit 1
