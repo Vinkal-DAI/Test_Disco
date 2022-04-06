@@ -16,4 +16,4 @@ and Rain < 30;
 ----------------------------------
 -- this is a paragraph 1 (sql b - commit 1)
 -- this is a paragraph 2 (sql b - commit 2)
--- Demo - changing rain< 30  - Commit 1
+-- Demo - changing rain< 30  - Commit 1 -- commit check
